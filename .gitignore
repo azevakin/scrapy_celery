@@ -108,3 +108,4 @@ test.json
 
 #db-files
 db.sqlite3
+/items.jsonl
